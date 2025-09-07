@@ -4,7 +4,7 @@ with open("MutationDetectionAgent.py", "w") as f:
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot
+import matplotlib.pyplot as plt
 import seaborn as sns
 import networkx as nx
 import random
@@ -133,3 +133,4 @@ st.pyplot(plt)
 
 st.write("Mutation optimization completed!")
     """)
+
