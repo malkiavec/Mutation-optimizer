@@ -1,11 +1,11 @@
-pip install streamlit
-pip install pandas
-pip install pyngrok 
-pip install xgboost 
-pip install tensorflow 
-pip install matplotlib 
-pip install seaborn 
-pip install networkx 
-pip install pandas 
-pip install numpy
-pip install sklearn
+streamlit
+pandas
+pyngrok 
+xgboost  
+tensorflow 
+matplotlib 
+seaborn 
+networkx 
+pandas 
+numpy
+sklearn
